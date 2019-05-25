@@ -1,0 +1,23 @@
+[
+	{
+		"id": "1",
+		"hobbie": "Capoeira",
+		"start_date": "Febrero 2008",
+		"description": "Comence a entrenar capoeira cuando era un niño, me ayudo mucho a lo largo de mi vida para ser la persona que soy el dia de hoy, me abrio puertas laborales y para poder viajar y conocer otros paises, en este momento soy Monitor dure un tiempo dictando clases en un jardin y con un proyecto social en la localidad de Usaquen.",
+		"gif": "../../images/others/prueba.gif"
+	},
+	{
+		"id": "2",
+		"hobbie": "Wing Chun",
+		"start_date": "Abril 2019",
+		"description": "Siempre me gustaron las artes marciales y aprender Kung Fu siempre fue un deseo, al ver peliculas y leer historias encontre muchos estilos de Kung Fu y logre encontrar una academia certificada del estilo Wing Chun el cual he sido muy feliz de aprender.",
+		"gif": "../../images/others/prueba.gif"
+	},
+	{
+		"id": "3",
+		"hobbie": "Bailar",
+		"start_date": "Febrero 2016",
+		"description": "Cuando era niño mis tias siempre me decian que era necesario aprender a bailar y en ese momento no me gustaba ni queria aprender, pero con el paso del tiempo me di cuenta lo importante y divertido que era, junto a mis amigos comenzamos a salir y hoy en dia es una de las cosas que mas me gusta. Aunque si escucho una salsa prefiero sentarme, nunca pude aprender a bailar bien eso ☹.",
+		"gif": "../../images/others/prueba.gif"
+	}
+]

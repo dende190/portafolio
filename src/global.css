@@ -1,0 +1,23 @@
+body{
+	font-family: 'Lato', 'Helvetica Neue', sans-serif;
+	background-color: #F4F4F7;
+	margin: 0;
+}
+.TextCenter{
+	text-align: center;
+}
+button{
+	width: 37%;
+    height: 20%;
+    border-radius: 20px;
+    font-size: 1em;
+    background-color: #891E23;
+    font-weight: bold;
+    border: 1px solid #891E23;
+    cursor: pointer;
+}
+.ContainerLink{
+    display: flex;
+    justify-content: center;
+    margin-top: 40px;
+}

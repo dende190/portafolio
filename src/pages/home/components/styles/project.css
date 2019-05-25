@@ -1,0 +1,50 @@
+.ContentProject{
+	position: relative;
+}
+.ContentFacePrimary, .ContentFaceFrontend, .ContentFaceBackend{
+	display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 0 40px 50px;
+    width: 78%;
+    transition: .6s;
+}
+.ContentFacePrimary:hover, .ContentFaceFrontend:hover, .ContentFaceBackend:hover{
+	background-color: rgba(189, 189, 189, 0.6196078431372549);
+	transform: scale(1.1);
+	box-shadow: -11px 12px 21px -1px rgba(0,0,0,0.75), 5px 12px 21px -1px rgba(0,0,0,0.75);
+}
+.ListDevelopedProject{
+	margin: 0;
+}
+.ContentFaceFrontend{
+	position: absolute;
+    top: 0;
+	transform: rotateY(90deg);
+}
+.ContentFaceBackend{
+	position: absolute;
+    top: 0;
+	transform: rotateY(-90deg);
+}
+.RotateFront{
+	transform: rotateY(90deg);
+}
+.RotateBack{
+    transform: rotateY(-90deg);
+}
+.StateInitial{
+	transform: rotateY(0);
+}
+.ContainerProjectLenguaje{
+	margin-top: 20px;
+}
+.ProjectLenguaje{
+	margin: 0;
+}
+
+@media screen and (max-width: 430px){
+	.ContainerProjectLenguaje{
+		margin: 0
+	}
+}

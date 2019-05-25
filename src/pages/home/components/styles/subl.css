@@ -1,0 +1,83 @@
+.ContainerSubl{
+	font-family: "Courier New";
+	box-shadow: -11px 12px 21px -1px rgba(0,0,0,0.75);
+}
+.ContainerSubl h2{
+	text-align: center;
+}
+.ContainerSubl{
+	border: 1px solid black;
+	background-color: #282923;
+}
+.ContainerSubl h2{
+	color: white
+}
+.HeaderSubl{
+	background-color: #DBDBDB;
+    display: flex;
+    flex-direction: column;
+    font-size: 0.6em;
+}
+.TitleHeaderSubl{
+	height: 33px;
+}
+.TitleHeaderSubl p{
+	text-align: center;
+}
+.MenuHeaderSubl{
+	display: grid;
+	grid-template-columns: repeat(10, 9%);
+	grid-template-rows: 38px;
+}
+.MenuHeaderSubl p{
+	justify-self: center;
+	cursor: pointer;
+}
+.ContentSubl{
+	font-size: 0.6em;
+	display: grid;
+	grid-template-columns: 3% 1fr;
+	grid-auto-rows: 25px;
+	padding-bottom: 70px;
+}
+.NumberLine, .ContentSubl{
+	color: white;
+}
+.TextRed{
+	color: #CC262F;
+}
+.TextYellow{
+	color: #E7DB74;
+}
+.TextGreen{
+	color: #A1D92B;
+}
+.TextBlue{
+	color: #67D8EF;
+}
+.TextOrange{
+	color: #FA8821;
+}
+
+@media screen and (max-width: 1450px){
+	.ContainerSubl{
+		width: 94%;
+		height: 88%;
+	}
+}
+
+@media screen and (max-width: 1250px){
+	.ContentSubl, .HeaderSubl{
+		font-size: 0.4em;
+	}
+	.MenuHeaderSubl {
+	    grid-template-rows: 28px;
+	}
+
+}
+
+@media screen and (max-width: 770px){
+	.ContainerSubl{
+		margin: 15px 0 0 22px;
+	}
+}

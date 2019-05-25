@@ -1,0 +1,26 @@
+[
+	{
+		"id": "1",
+		"why": "Nunca dejo de aprender",
+		"description": "Me gusta indagar y aprender, si hay un reto y un nuevo proyecto yo sere feliz de tomarlo para aprender cosas nuevas.",
+		"src": ""
+	},
+	{
+		"id": "2",
+		"why": "Quiero ser bueno en lo que hago",
+		"description": "No sere el mejor Desarrollador, me faltan cosas por aprender, pero si me dan una oportunidad les aseguro ser el mejor para ustedes.",
+		"src": ""
+	},
+	{
+		"id": "3",
+		"why": "Me gustan los retos",
+		"description": "Entre mas dificil sea el reto mas feliz soy, si toca trabajar y esforzarse sacare lo mejor de mi.",
+		"src": ""
+	},
+	{
+		"id": "4",
+		"why": "Me gusta dar mi opinion",
+		"description": "Si tengo algo que aportar para mejorar el proyeto me gusta decirlo, me gusta que se pueda hacer lo mejor",
+		"src": ""
+	}
+]

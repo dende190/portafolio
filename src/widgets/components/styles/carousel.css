@@ -1,0 +1,33 @@
+.ContainerCarouselDataCarousel{
+	display: grid;
+	grid-template-columns: repeat(6, 1fr);
+	justify-items: center;
+	align-items: center;
+	height: 100%;
+	grid-gap: 15px;
+}
+.ContainerDataCarousel{
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	transition: .4s;
+}
+.ContainerDataCarousel:hover{
+	transform: scale(1.3);
+}
+.LeftButtonCarousel, .RightButtonCarousel{
+    width: 44%;
+    height: 20%;
+    font-size: 1em;
+}
+
+@media screen and (max-width: 430px){
+	.LeftButtonCarousel, .RightButtonCarousel{
+		width: 70%;
+	    height: 26%;
+	}
+	.ContainerDataCarousel p{
+		font-size: 0.5em;
+	}
+}
+

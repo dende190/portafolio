@@ -1,0 +1,67 @@
+[
+	{
+		"id": "1",
+		"name": "Node",
+		"src": "../../images/certificates/diploma-nodejs.png"
+	},
+	{
+		"id": "2",
+		"name": "PHP Backend",
+		"src": "../../images/certificates/diploma-php.png"
+	},
+	{
+		"id": "3",
+		"name": "PHP Basico",
+		"src": "../../images/certificates/diploma-phpb.png"
+	},
+	{
+		"id": "4",
+		"name": "Python",
+		"src": "../../images/certificates/diploma-python.png"
+	},
+	{
+		"id": "5",
+		"name": "React Router",
+		"src": "../../images/certificates/diploma-react-router.png"
+	},
+	{
+		"id": "6",
+		"name": "Javascript",
+		"src": "../../images/certificates/diploma-javascript.png"
+	},
+	{
+		"id": "7",
+		"name": "Seguridad Informatica",
+		"src": "../../images/certificates/diploma-seguridad.png"
+	},
+	{
+		"id": "8",
+		"name": "HTML5 y CSS3",
+		"src": "../../images/certificates/diploma-web.png"
+	},
+	{
+		"id": "9",
+		"name": "Responsive Design",
+		"src": "../../images/certificates/diploma-responsive.png"
+	},
+	{
+		"id": "10",
+		"name": "Linux",
+		"src": "../../images/certificates/diploma-linux.png"
+	},
+	{
+		"id": "11",
+		"name": "Marca Personal",
+		"src": "../../images/certificates/diploma-marca.png"
+	},
+	{
+		"id": "12",
+		"name": "ReactJs",
+		"src": "../../images/certificates/diploma-node.png"
+	},
+	{
+		"id": "13",
+		"name": "MySql",
+		"src": "../../images/certificates/diploma-node.png"
+	}
+]

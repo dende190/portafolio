@@ -1,0 +1,94 @@
+.ContainerCardName{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 50px 100px;
+}
+.BorderHeaderCardName{
+	background-color: grey;
+	width: 100%;
+	height: 100px;
+}
+.ContainerCardName, .BorderHeaderCardName{
+	border: 1px solid black;
+    border-radius: 20px 20px 0 0;
+}
+.ContainerContentFlexCardName{
+	display: flex;
+	margin-top: 30px;
+}
+.AvatarCardName{
+	width: 75%;
+	border-radius: 50%;
+}
+.DataCardName{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.DataCardName h2, .FooterCardName{
+	font-size: 2.3em;
+	margin: 0;
+}
+.DataCardName h3{
+	font-size: 35px;
+	margin: 0;
+}
+.FooterCardName{
+	font-size: 27px;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+.ContainerCardInfoAboutMe{
+	width: 50%;
+	margin-right: 100px;
+}
+.ContainerInfoAboutMe{
+	width: 50%;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+}
+.ContainerInfoAboutMe div{
+	width: 70%;
+}
+.ContainerIcons{
+	display: grid;
+	grid-template-columns: repeat(3, 1fr);
+	justify-items: center;
+	grid-gap: 50px;
+}
+
+@media screen and (max-width: 1024px){
+	.ContainerCardName p {
+	    font-size: 0.8em;
+	}
+	.AvatarCardName{
+		width: 25%;
+	}
+	.ContainerCardInfoAboutMe .ContainerContentFlexCardName{
+		flex-direction: column;
+	}
+}
+
+@media screen and (max-width: 770px){
+	.ContainerContentFlexCardName {
+	    align-items: center;
+	    flex-direction: column;
+	}
+	.ContainerCardInfoAboutMe{
+		margin: 0;
+	}
+	.ContainerInfoAboutMe{
+		width: 100%;
+	}
+}
+
+@media screen and (max-width: 430px){
+	.ContainerCardName{
+		margin: 0;
+	}
+}
+

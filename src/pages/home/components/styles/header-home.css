@@ -1,0 +1,70 @@
+.ContainerAllHeaderHome{
+	background-color: #0A2463;
+}
+.ContainerAllHeaderHome h1{
+	margin: 0;
+    text-align: center;
+    padding-top: 40px;
+    font-size: 3em;
+}
+.ContainerHeaderHome{
+	padding: 50px 80px 100px 0;
+	border-bottom-left-radius: 200px;
+	display: grid;
+	grid-template-columns: repeat(2, 1fr);
+	grid-gap: 10px;
+	grid-auto-rows: minmax(100px, auto);
+	z-index: 2;
+	font-size: 22px;
+}
+.ContentHeaderHome{
+	display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.ContentHeaderHome h2, .ContentHeaderHome p{
+	text-align: center;
+}
+.ImageAvatarHeaderHome{
+	width: 100%;
+	border-radius: 50%;
+}
+.ContainerDataHeaderHome{
+	display: flex;
+	justify-content: center;
+}
+.ContainerImageAvatarHeaderHome{
+	width: 13%;
+}
+
+@media screen and (max-width: 1450px){
+	.ContainerHeaderHome{
+		padding: 50px 0 100px 0;
+	}
+}
+
+@media screen and (max-width: 770px){
+	.ContainerHeaderHome{
+		grid-template-columns: repeat(1, 1fr);
+	}
+}
+
+@media screen and (max-width: 430px){
+	.ContainerAllHeaderHome h1{
+		padding-top: 110px;
+	}
+	.ContainerDataHeaderHome{
+		flex-direction: column;
+		align-items: center;
+	}
+	.ContainerImageAvatarHeaderHome {
+	    width: 35%;
+	}
+	.ContainerSubl {
+	    margin: 20px 0 0 11px;
+	}
+	.ContentProjects p{
+		font-size: 0.8em;
+	}
+}

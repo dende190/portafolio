@@ -1,0 +1,156 @@
+[
+	{
+		"id": "1",
+		"src": "../../images/others/web_static.png",
+		"name": "Barbie Peluqueria",
+		"date": "26 de mayo 2019",
+		"description": "Es un proyecto para una peluqueria el cual lleva una pagina web (un template) y una plataforma administrativa para ver las reservas que se han realizado, la lista de clientes y empleados (usando CRUD), poder llevar los temas contables desde la plataforma.",
+		"backend": [
+			"Node Js",
+			"Express Js",
+			"Passports",
+			"MongoDB"
+		],
+		"frontend": [
+			"HTML 5",
+			"CSS 3",
+			"Bootstrap",
+			"JavaScript",
+			"DataTable",
+			"Responsive Design"
+		],
+		"developed_by": [
+			"Juan Pablo Arnedo",
+			"Cristian Cucunuba"
+		],
+		"freelance": true
+	},
+	{
+		"id": "2",
+		"src": "../../images/others/web_static.png",
+		"name": "Portafolio de Juan",
+		"date": "20 de mayo 2019",
+		"description": "Quise hacer una pagina web que mostrara quien soy, no soy muy bueno desarrollando UI desde 0 pero si soy bueno programando y haciendo paginas web, entonces despues de pensar como queria que fuera comence a realizar el codigo necesario.",
+		"backend": [
+			"Node Js",
+			"Express Js"
+		],
+		"frontend": [
+			"React Js",
+			"React Router",
+			"JSX",
+			"HTML 5",
+			"CSS 3",
+			"JavaScript",
+			"Responsive Design"
+		],
+		"developed_by": [
+			"Juan Pablo Arnedo"
+		],
+		"freelance": true
+	},
+	{
+		"id": "3",
+		"src": "../../images/others/web_static.png",
+		"name": "DAAR LIGHTNING PROTECTION",
+		"date": "26 de abril 2019",
+		"description": "Pagina web para mostrar productos de la empresa DAAT la cual se enfoca en 'Pararayos', productos que evitan al 100% los rayos",
+		"backend": [
+			"PHP",
+			"MySql"
+		],
+		"frontend": [
+			"HTML 5",
+			"CSS 3",
+			"Bootstrap",
+			"JavaScript",
+			"DataTable",
+			"JQuery",
+			"Responsive Design"
+		],
+		"developed_by": [
+			"Juan Pablo Arnedo"
+		],
+		"freelance": true
+	},
+	{
+		"id": "4",
+		"src": "../../images/others/web_static.png",
+		"name": "Sistema de monitoreo (NodeJS)",
+		"date": "26 de abril 2019",
+		"description": "Mi segundo proyecto grande cuando trabajaba en IP Consultores, un sistema de monitoreo que mostraba el estado de los servidores y si tenian alertas se mostraban en tiempo real por medio de Sockets, toda la plataforma fue realizada desde 0 y nosotros realizamos las bases de datos y el sistema de Login, tiene tanto alertas como informes automaticos que facilitaban el trabajo de la persona que tenia que monitorear.",
+		"backend": [
+			"Node Js",
+			"Express Js",
+			"Passports",
+			"MySql",
+			"Sockets",
+			"Responsive Design"
+		],
+		"frontend": [
+			"Ejs",
+			"HTML 5",
+			"CSS 3",
+			"Bootstrap",
+			"JavaScript",
+			"DataTable"
+		],
+		"developed_by": [
+			"Juan Pablo Arnedo",
+			"Cristian Cucunuba",
+			"Sneider Sanchez"
+		],
+		"freelance": false
+	},
+	{
+		"id": "5",
+		"src": "../../images/others/web_static.png",
+		"name": "Sistema de monitoreo (Laravel)",
+		"date": "26 de abril 2019",
+		"description": "Fue mi primer proyecto grande en IP Consultores y en la vida, fue un sistema de monitoreo usando Laravel que facilitaba la revision de los servidores y alertas para la persona que realizaba el monitoreo.",
+		"backend": [
+			"PHP",
+			"Laravel",
+			"MySql"
+		],
+		"frontend": [
+			"Blade",
+			"HTML 5",
+			"CSS 3",
+			"Bootstrap",
+			"JavaScript",
+			"DataTable",
+			"Responsive Design"
+		],
+		"developed_by": [
+			"Juan Pablo Arnedo",
+			"Cristian Cucunuba",
+			"Sneider Sanchez"
+		],
+		"freelance": false
+	},
+	{
+		"id": "6",
+		"src": "../../images/others/web_static.png",
+		"name": "Landing Page Sprach Institut",
+		"date": "26 de abril 2019",
+		"description": "Landing Page para un instituo de aleman, ellos dieron el diseño y yo pase a codigo, tiene el landing y listas para saber las personas que se hayan registrado y para poder enviar correos electronicos a las personas que se hayan registrado",
+		"backend": [
+			"PHP",
+			"MySql"
+		],
+		"frontend": [
+			"HTML 5",
+			"CSS 3",
+			"Bootstrap",
+			"JavaScript",
+			"DataTable",
+			"JQuery",
+			"Responsive Design"
+		],
+		"developed_by": [
+			"Juan Pablo Arnedo"
+		],
+		"freelance": false
+	}
+]

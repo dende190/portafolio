@@ -1,0 +1,24 @@
+.ContainerDataAbout{
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+.ContainerGif{
+	-webkit-mask-image: url('../../../../../images/others/triangulo.png');
+	-webkit-mask-size: 100% 100%;
+}
+
+@media screen and (max-width: 1450px){
+	.ContainerDataAbout{
+		width: 70%;
+	}
+}
+
+@media screen and (max-width: 430px){
+	.ContainerDataAbout h1{
+		font-size: 1.5em;
+	}
+	.ContainerDataAbout p{
+		font-size: 0.8em;
+	}
+}

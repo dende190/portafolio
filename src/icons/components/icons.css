@@ -1,0 +1,15 @@
+.Icon{
+	cursor: pointer;
+}
+.GitHub, .Whatsapp, .Linkedin{
+	transition: .4s;
+}
+.Icon:hover .GitHub{
+	fill: black;
+}
+.Icon:hover .Whatsapp{
+	fill: #7AD06D;
+}
+.Icon:hover .Linkedin{
+	fill: #0077B7;
+}

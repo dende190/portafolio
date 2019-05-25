@@ -1,0 +1,13 @@
+.GridListProjects{
+	display: grid;
+	grid-template-columns: repeat(3, 1fr);
+	justify-items: center;
+	width: 45%;
+	grid-row-gap: 10px;
+}
+.ContainerListProjects{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	height: 100vh;
+}

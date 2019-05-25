@@ -1,0 +1,23 @@
+[
+	{
+		"id": "1",
+		"hobbie": "Ingenieria Civil",
+		"start_date": "2015-1 a 2016-2 (no terminado)",
+		"description": "Estudie Ingenieria civil debido a que mi papa es Ingeniero Civil y siempre senti mucha felicidad al acompañarlo a las obras y ver como desde un lote vacio puede crearse una edificacion, comence a estudiar en la Escuela de Ingenieros Julio Garavito pero despues del tercer semestre me di cuenta que eso no era para mi... cuando vi materias de la carrera supe que no queria eso para mi vida y cambie la carrera a Ingenieria de Sistemas.",
+		"gif": "../../images/others/prueba.gif"
+	},
+	{
+		"id": "2",
+		"hobbie": "Platzi",
+		"start_date": "2017 a hoy",
+		"description": "Al cambiar de carrera tuve problemas con el pago de la universidad y tuve que retirarme ese semestre, pero no queria quedarme sin hacer nada, no queria perder el tiempo y descubri Platzi y me dedique a aprender lo que pudiera en la plataforma, despues consegui trabajo y poco a poco fui subiendo en esa empresa, me di cuenta lo que sabia y lo que me faltaba, pero tambien me di cuenta que siempre que necesitaba algo nuevo podia aprender en Platzi y podia lograr algo mejor.",
+		"gif": "../../images/others/prueba.gif"
+	},
+	{
+		"id": "3",
+		"hobbie": "IP Consultores (ultimo trabajo)",
+		"start_date": "abril 2017 - abril 2019 (2 años laborales)",
+		"description": "Comence a trabajar en la empresa como Soporte Tecnico en un instito de Aleman pero poco a poco me daban la oportunindad de programar cosas pequeñas, luego cambie mi puesto para monitorear el estado de unos servidores y me dieron la gran oportunidad de crear el sistema de monitoreo y ahorrar tareas que se tenian en la empresa, se creo ese sistema en Laravel para un cliente y luego lo creamos en NodeJs para la empresa y logramos cosas maravillosas, gracias a eso se lo que se aunque quiero saber mucho mas.",
+		"gif": "../../images/others/prueba.gif"
+	}
+]

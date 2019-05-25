@@ -1,0 +1,25 @@
+.CotainerEachProject{
+	position: relative;
+	overflow: hidden;
+}
+.ContainerImageEachProject, .ContainerTextEachProject{
+	width: 100%;
+	height: 100%;
+}
+.ContainerTextEachProject{
+	opacity: 0;
+	position: absolute;
+	z-index: 3;
+	top: 0;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	background-color: grey;
+	transform: translateX(-100%);
+	transition: .8s;
+}
+.CotainerEachProject:hover .ContainerTextEachProject{
+	transform: translateX(0);
+	opacity: 1;
+}
